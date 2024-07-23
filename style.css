@@ -1,0 +1,8 @@
+#main{
+    width: 70vw;
+    height: 50vh;
+    margin-left: 15vw;
+    margin-top: 25vh;
+    background-color: bisque;
+    box-shadow: 3px 3px 5px 5px black;
+}
